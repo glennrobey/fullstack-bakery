@@ -1,0 +1,116 @@
+* {
+  background-color: black;
+}
+
+.brand {
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+  color: green;
+  text-align: right;
+  margin: 0;
+}
+
+#list {
+  color: green;
+}
+
+.foodlist {
+  color: green;
+  font-size: 20px;
+}
+
+h1 {
+  background-color: black;
+  font-size: 90px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  font-size: 3em;
+  justify-content: right;
+}
+
+h2 {
+  background-color: black;
+  text-align: center;
+  margin: 0;
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  gap: 2ch;
+  font-size: 45px;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.descriptions {
+  color: green;
+  font-size: 20px;
+  background-color: black;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  padding: 0;
+}
+.footer-edit {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: white;
+  color: green;
+  font-size: 12px;
+  text-align: center;
+  gap: 4ch;
+}
+
+.testimonial {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: green;
+  color: white;
+  font-size: 15px;
+  text-align: right;
+  gap: 2ch;
+  font-size: 1.5em;
+}
+
+h3 {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  gap: 30ch;
+  background-color: green;
+  font-size: 20px;
+}
+
+.links {
+  color: white;
+  font-size: 20px;
+  text-align: right;
+  font-size: 2em;
+  background-color: green;
+}
+
+a:link {
+  color: blue;
+}
+a:visited {
+  color: white;
+}
+
+a:link,
+a,
+vistied {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+h4 {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  gap: 30ch;
+  background-color: green;
+  font-size: 20px;
+  height: 100%;
+}
